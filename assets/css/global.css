@@ -1,0 +1,37 @@
+/* NOTICE OF LICENSE
+ *
+ * This source file is subject to a commercial license from DNH Web
+ * Use, copy, modification or distribution of this source file without written
+ * license agreement from DNH Web is strictly forbidden.
+ * In order to obtain a license, please contact us: alexandre@dnhweb.fr
+ * ...........................................................................
+ * INFORMATION SUR LA LICENCE D'UTILISATION
+ *
+ * L'utilisation de ce fichier source est soumise a une licence commerciale
+ * concedee par la societe DNH Web.
+ * Toute utilisation, reproduction, modification ou distribution du present
+ * fichier source sans contrat de licence ecrit de la part de DNH Web est
+ * expressement interdite.
+ * Pour obtenir une licence, veuillez contacter la SARL SMC a l'adresse: 
+ *                  alexandre@dnhweb.fr
+ * ...........................................................................
+ * @copyright  Copyright(c) 2013 DNH Web - http://www.dnhweb.fr
+ * @author     Debusschere A.
+ * @license    Commercial license
+ * Contact by Email :  alexandre@dnhweb.fr
+ */
+
+#wrap {
+  min-height: 47%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -58px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+  height: 60px;
+  background-color: #f5f5f5;
+}
